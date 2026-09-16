@@ -1,6 +1,6 @@
 # Data Completeness & Integrity Audit: Analyzing Personal Information and Notification Disclosures in the GC AI Register
 
-**Author:** Ogbonnaya Nzie Ezichi — [LinkedIn]() · [GitHub]() · [Google Scholar]()
+**Author:** Ogbonnaya Nzie Ezichi 
 
 ---
 
