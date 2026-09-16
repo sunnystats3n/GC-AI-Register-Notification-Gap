@@ -34,7 +34,7 @@ Out of 412 total institutional systems registered, **88 systems (21.4%)** are fl
 Crucially, **13 of these 31 undocumented systems are already marked "In production"**, confirming they are live operational systems interacting with public workflows rather than safe-sandboxed proposals. These include high-impact systems within critical agencies:
 
 | Register System ID | Responsible Agency / Department | Live AI System Asset Name | Operational Status |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | 
 | **2526-CBSA-ASFC-002** | Canada Border Services Agency | Fuzzy Search (SSAName3) | In production |
 | **2526-CBSA-ASFC-004** | Canada Border Services Agency | Primary Inspection Kiosk | In production |
 | **2526-ESDC-EDSC-014** | Employment & Social Development Canada | Record of Employment Comments Assessment | In production |
